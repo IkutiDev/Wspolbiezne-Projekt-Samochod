@@ -1,6 +1,8 @@
 ## Wspolbiezne-Projekt-Samochod
 # Projekt na przedmiot programowanie współbieżne na temat prowadzenia pojazdu przez wiele osób
 
+Projekt dostal ocene 5.0, jeżeli coś nie jest zrozumiałe/nie działa proszę pisać w Issue a spróbuje wytłumaczyć. Kod napisany w xlib na gniazdach BSD wykorzystujący wielowątkowość. Ten projekt nie jest napisany optymalnie/wykorzystując najlepszych sposobów, gdyż był pisany w krótkim okresie czasu a ja nie jestem/nie byłem specjalnie obeznany w bibliotekach xlib, a w c pisałem porządnie ostatnio jakiś rok temu/dwa lata temu.
+
 Autor programu: Michał Olkiewicz
 Temat: Symulacja prowadzenia pojazdu przez wiele osób naraz
 
